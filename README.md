@@ -39,7 +39,7 @@ Revenue analysis provides vital insight into a company's ability to convert sale
 
 - Business Insight: Aggressive growth of 113% demonstrates the effectiveness of pricing strategies or product mix changes. However, the inability to consistently achieve monthly targets indicates the need to reevaluate overly optimistic target settings or the presence of external factors hindering maximum conversion. 
 
-D. Quantity Sold (Unit Sales Volume)
+#### D. Quantity Sold (Unit Sales Volume)
 Dashboard Quantity Sold 
 This graph charts the movement of product units to gauge the extent to which the market is absorbing available inventory. 
 
