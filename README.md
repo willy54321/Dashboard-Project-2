@@ -3,13 +3,22 @@
 Link Portofolio Dashboard for Sales with Top Seller Filter in Excel .xlsx  = 
 [Klik di sini untuk melihat Dashboard Live](https://1drv.ms/x/c/bed680db9087d3ba/IQCj_a3VG_ODQLWnCNhr9eXHARDm0mf3VsGHqrp1BDMMsP8?e=l02WsF)
 
+<p align="center"> 
+<img width="739" height="320" alt="image" src="https://github.com/user-attachments/assets/28836664-df58-4f9d-bff4-e547644eaeba" />
+</p>
+<p align="center"> 
+<img width="804" height="345" alt="image" src="https://github.com/user-attachments/assets/a8895b11-6350-48b2-aeff-d8770d7a9d04" />
+</p>
+
 ### 1. Executive Summary & Business Context 
 This project focused on developing a dynamic sales monitoring solution to help management evaluate sales team effectiveness and achieve annual targets. This dashboard provides full transparency into individual sales managers' contributions and monthly market trends. The primary purpose of this analytical tool is to identify "Top Performers," monitor revenue health in real-time, and ensure product volume sold remains above operational targets. 
 
 ### 2. Deep Dive Analysis & Key Findings 
 
 #### A. Main Dashboard (Main Overview & Top Sellers) 
+<p align="center"> 
 <img width="740" height="438" alt="image" src="https://github.com/user-attachments/assets/1faa1b32-00ea-4c9d-9f86-920a9c4fa69d" />
+</p>
 
 Main Dashboard  
 Based on data processed through a dynamic filtering system, the following is an in-depth analysis of individual contributions to the company's total revenue:   
@@ -26,7 +35,9 @@ Daily analysis shows that individual maximum sales (Max Weekly Sales) are often 
 While individual performance varied, collectively, unit sales volume reached 8,695 units, exceeding the operational target of 7,500 units, representing a growth of +16%. This success was driven by the aggressive performance of the Top 2 managers, who offset the volume shortfalls of the other managers.
 
 #### B. Weekly Sales (Daily Trend & Weekly Distribution) 
+<p align="center"> 
 <img width="732" height="420" alt="image" src="https://github.com/user-attachments/assets/8b63bf8a-27d5-4f4a-822c-37fec50d2bbd" />
+</p>
 
 Dashboard Weekly Sales
 This visualization analyzes sales activity over a seven-day cycle to understand short-term 
@@ -41,8 +52,10 @@ On Wednesday, a transaction value of Rp924,000 was recorded. Although not the da
 - Business Insight:  
 The uneven distribution of sales between weekdays (high on Thursday) and the beginning of the week indicates the need for more planned operational resource allocation and promotional campaigns on low-sales days to balance the team's workload.
   
-#### C. Revenue (Achievement vs. Revenue Target) 
+#### C. Revenue (Achievement vs. Revenue Target)
+<p align="center"> 
 <img width="740" height="432" alt="image" src="https://github.com/user-attachments/assets/812a21ab-5dce-40c8-a7a2-73ba80870b06" />
+</p>
 
 Dashboard Revenue  
 Revenue analysis provides vital insight into a company's ability to convert sales volume into a healthy monetary value. 
@@ -57,7 +70,9 @@ Despite positive annual growth, revenue was recorded at Rp6,383,900.00 in Februa
 Aggressive growth of 113% demonstrates the effectiveness of pricing strategies or product mix changes. However, the inability to consistently achieve monthly targets indicates the need to reevaluate overly optimistic target settings or the presence of external factors hindering maximum conversion. 
 
 #### D. Quantity Sold (Unit Sales Volume)
+<p align="center"> 
 <img width="726" height="414" alt="image" src="https://github.com/user-attachments/assets/6fd028ef-08d6-420d-ae21-fcdbb49eac3b" />
+</p>
 
 Dashboard Quantity Sold   
 This graph charts the movement of product units to gauge the extent to which the market is absorbing available inventory. 
