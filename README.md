@@ -1,5 +1,7 @@
-# Dashboard-Project-2
-Sales Force Effectiveness Dashboard: Real-Time Revenue Monitoring &amp; Top Sellers  Ranking Analysis Using Excel 
+# Sales Force Effectiveness Dashboard: Real-Time Revenue Monitoring &amp; Top Sellers  Ranking Analysis Using Excel 
+
+Link Portofolio Dashboard for Sales with Top Seller Filter in Excel .xlsx  = 
+[Klik di sini untuk melihat Dashboard Live](https://1drv.ms/x/c/bed680db9087d3ba/IQCj_a3VG_ODQLWnCNhr9eXHARDm0mf3VsGHqrp1BDMMsP8?e=l02WsF)
 
 ### 1. Executive Summary & Business Context 
 This project focused on developing a dynamic sales monitoring solution to help management evaluate sales team effectiveness and achieve annual targets. This dashboard provides full transparency into individual sales managers' contributions and monthly market trends. The primary purpose of this analytical tool is to identify "Top Performers," monitor revenue health in real-time, and ensure product volume sold remains above operational targets. 
