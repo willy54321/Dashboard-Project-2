@@ -1,6 +1,7 @@
-# Sales Force Effectiveness Dashboard: Real-Time Revenue Monitoring &amp; Top Sellers  Ranking Analysis Using Excel 
+# Sales Force Effectiveness Dashboard: Real-Time Revenue Monitoring &amp; Top Sellers Ranking Analysis Using Excel 
 
-Link Portofolio Dashboard for Sales with Top Seller Filter in Excel .xlsx  = 
+Link Portofolio Dashboard Sales Force Effectiveness Dashboard.xlsx  = 
+
 [Klik di sini untuk melihat Dashboard Live](https://1drv.ms/x/c/bed680db9087d3ba/IQCj_a3VG_ODQLWnCNhr9eXHARDm0mf3VsGHqrp1BDMMsP8?e=l02WsF)
 
 <p align="center"> 
